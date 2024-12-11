@@ -1,9 +1,10 @@
 # README - Gestion des réservations et des patients dans un cabinet médical
 
-https://github.com/user-attachments/assets/ba70cc0b-a5ca-4640-a0b7-730049c0285a
-
 ## Introduction
 Ce projet de fin d'études (PFE) vise à développer un système de gestion des réservations et des patients dans un cabinet médical. Ce système facilite la réservation en ligne des rendez-vous pour les patients et simplifie la gestion des réservations et des dossiers des patients pour les administrateurs du cabinet. Le projet utilise des technologies modernes de développement web et suit les bonnes pratiques de conception logicielle.
+
+https://github.com/user-attachments/assets/ba70cc0b-a5ca-4640-a0b7-730049c0285a
+
 
 ## Fonctionnalités principales
 
