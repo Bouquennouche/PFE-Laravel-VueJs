@@ -1,6 +1,5 @@
 # README - Gestion des réservations et des patients dans un cabinet médical
 
-**Vidéo démo **
 https://github.com/user-attachments/assets/ba70cc0b-a5ca-4640-a0b7-730049c0285a
 
 ## Introduction
