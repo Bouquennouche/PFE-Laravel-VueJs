@@ -111,16 +111,9 @@ http://localhost:8000
 ## Arborescence du projet
 ```
 projet-cabinet-medical/
-├── app/             # Modèles et logique métier
-├── bootstrap/      
-├── config/         # Fichiers de configuration
-├── database/       # Migrations et seeders
-├── public/         # Fichiers accessibles publiquement (JS, CSS, images)
-├── resources/      # Vues Blade, fichiers CSS et JS
-├── routes/         # Définitions des routes web
-├── storage/        # Logs et fichiers de cache
-├── tests/          # Tests unitaires et d’intégration
-└── vendor/         # Dépendances installées via Composer
+├── PFE/            # Projet complet
+   ├──Frontend      # Partie Frontend
+   ├──Backend       # Partie Backend
 ```
 
 ## Sécurité des données
